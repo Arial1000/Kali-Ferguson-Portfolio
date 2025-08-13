@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react';
 import '../assets/styles/About.scss';
 
 function About(){
-    return (<div className="container">
+    return (<div className="container" id="about">
         <div className="about-container">
             <h1>About Me</h1>
             <p>Innovative computer science graduate skilled in Java and 
