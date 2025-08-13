@@ -24,6 +24,7 @@ function Main() {
           <div className="mobile_social_icons">
             <a href="https://github.com/Arial1000" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/kali-a-ferguson/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <p>lyricthefirst@gmail.com</p>
           </div>
         </div>
       </div>
