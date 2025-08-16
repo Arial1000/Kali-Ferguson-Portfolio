@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Kali-Ferguson-Portfolio/static/css/main.7b155a21.css",
+    "main.js": "/Kali-Ferguson-Portfolio/static/js/main.d15aab8f.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Kali-Ferguson-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/Kali-Ferguson-Portfolio/static/media/mock10.2d05b02ba569a430a255.png",
+    "static/media/mock09.png": "/Kali-Ferguson-Portfolio/static/media/mock09.e18677ccfc932e52d754.png",
+    "static/media/mock08.png": "/Kali-Ferguson-Portfolio/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/mock04.png": "/Kali-Ferguson-Portfolio/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/mock07.png": "/Kali-Ferguson-Portfolio/static/media/mock07.3f1110f482232b33c6a2.png",
+    "static/media/mock05.png": "/Kali-Ferguson-Portfolio/static/media/mock05.4faafa70d200d1519a34.png",
+    "static/media/mock06.png": "/Kali-Ferguson-Portfolio/static/media/mock06.ea816617e0d0fa0f63ca.png",
+    "static/media/mock01.png": "/Kali-Ferguson-Portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
+    "static/media/mock02.png": "/Kali-Ferguson-Portfolio/static/media/mock02.bced48ae9cdda3acf1a3.png",
+    "static/media/mock03.png": "/Kali-Ferguson-Portfolio/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/Headshot.jpg": "/Kali-Ferguson-Portfolio/static/media/Headshot.79c16697ac70e8740edd.jpg",
+    "static/media/lbg.jpg": "/Kali-Ferguson-Portfolio/static/media/lbg.80cf41f0ca845048fb21.jpg",
+    "static/media/dark-background.avif": "/Kali-Ferguson-Portfolio/static/media/dark-background.70c3ab7d8d0f760bf424.avif",
+    "index.html": "/Kali-Ferguson-Portfolio/index.html",
+    "main.7b155a21.css.map": "/Kali-Ferguson-Portfolio/static/css/main.7b155a21.css.map",
+    "main.d15aab8f.js.map": "/Kali-Ferguson-Portfolio/static/js/main.d15aab8f.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Kali-Ferguson-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b155a21.css",
+    "static/js/main.d15aab8f.js"
+  ]
+}
