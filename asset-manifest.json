@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kali-Ferguson-Portfolio/static/css/main.7b155a21.css",
-    "main.js": "/Kali-Ferguson-Portfolio/static/js/main.d15aab8f.js",
-    "static/js/453.b05d8aa5.chunk.js": "/Kali-Ferguson-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "main.js": "/Kali-Ferguson-Portfolio/static/js/main.c6a1f20a.js",
+    "static/js/453.c9bec50d.chunk.js": "/Kali-Ferguson-Portfolio/static/js/453.c9bec50d.chunk.js",
     "static/media/mock10.png": "/Kali-Ferguson-Portfolio/static/media/mock10.2d05b02ba569a430a255.png",
     "static/media/mock09.png": "/Kali-Ferguson-Portfolio/static/media/mock09.e18677ccfc932e52d754.png",
     "static/media/mock08.png": "/Kali-Ferguson-Portfolio/static/media/mock08.13f46873fdbd382f4b76.png",
@@ -18,11 +18,11 @@
     "static/media/dark-background.avif": "/Kali-Ferguson-Portfolio/static/media/dark-background.70c3ab7d8d0f760bf424.avif",
     "index.html": "/Kali-Ferguson-Portfolio/index.html",
     "main.7b155a21.css.map": "/Kali-Ferguson-Portfolio/static/css/main.7b155a21.css.map",
-    "main.d15aab8f.js.map": "/Kali-Ferguson-Portfolio/static/js/main.d15aab8f.js.map",
-    "453.b05d8aa5.chunk.js.map": "/Kali-Ferguson-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+    "main.c6a1f20a.js.map": "/Kali-Ferguson-Portfolio/static/js/main.c6a1f20a.js.map",
+    "453.c9bec50d.chunk.js.map": "/Kali-Ferguson-Portfolio/static/js/453.c9bec50d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b155a21.css",
-    "static/js/main.d15aab8f.js"
+    "static/js/main.c6a1f20a.js"
   ]
 }
